@@ -1,1 +1,1 @@
-Assignmnts during the training
+Assignments during the training
