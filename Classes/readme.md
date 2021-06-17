@@ -1,1 +1,1 @@
-notes given during classes
+Notes given for the classes
